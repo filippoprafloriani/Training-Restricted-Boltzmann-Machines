@@ -48,5 +48,3 @@ Two synthetic datasets with a known underlying pattern.
 pip install numpy pandas matplotlib seaborn
 jupyter notebook RBM.ipynb
 ```
-
-The notebook reads the datasets from `DATA/` and `DATA_b/` (files `x_RBM_q0.1.dat`).
